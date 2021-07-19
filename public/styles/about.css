@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-div {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
